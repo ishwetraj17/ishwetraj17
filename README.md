@@ -71,7 +71,7 @@ Currently preparing for FAANG technical interviews.
 ### 📬 Connect
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shwet-raj-7011b531b/" target="_blank">
+  <a href="https://www.linkedin.com/in/shwetraj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/ishwetraj" target="_blank">
